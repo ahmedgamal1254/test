@@ -1,0 +1,2 @@
+def amama():
+  pass
